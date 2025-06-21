@@ -15,6 +15,8 @@ Este é o **site do acervo da Livraria A Toca (v1.0)**. O sistema é voltado par
 - **Marrom Café:** `#3C2615`
 - **Amarelo Mostarda:** `#E4B151`
 
+![A Toca paleta](https://github.com/user-attachments/assets/bfcf846d-7a87-4190-a288-8f1e3d61f671)
+
 ---
 
 ## ✅ Tecnologias usadas:
@@ -97,9 +99,9 @@ package.json
 
 ---
 
-## 👩‍💻 Autora do Projeto:
+## 👩‍💻 Autores do Projeto:
 
-**Sarah Ariel de Sousa Mascarenha**
+**Sarah Ariel de Sousa Mascarenha** e **Ronalde Omena**
 
 > Projeto feito para a disciplina de Programação Web - CRUD com Express, Sequelize e EJS.
 
