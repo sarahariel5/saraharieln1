@@ -2,7 +2,7 @@
 
 # 📚 Livraria A Toca - Projeto Node.js com Express, EJS, Sequelize e SQLite
 
-Projeto Web desenvolvido por **Sarah Ariel de Sousa Mascarenha**, inspirado pela paixão pessoal da autora por livros e leitura.
+Projeto Web desenvolvido por **Sarah Ariel de Sousa Mascarenha** e **Ronalde Omena**, inspirado pela paixão pessoal dos autores por livros e leitura.
 
 Este é o **site do acervo da Livraria A Toca (v1.0)**. O sistema é voltado para **desenvolvedores e administradores internos**, permitindo **cadastrar, visualizar, editar e excluir livros**, além de **gerenciar uma lista de favoritos por sessão**.
 
