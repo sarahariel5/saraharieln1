@@ -55,7 +55,7 @@ Este é o **site do acervo da Livraria A Toca (v1.0)**. O sistema é voltado par
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repo>
+git clone <https://github.com/sarahariel5/saraharieln1>
 cd livraria-toca
 ```
 
