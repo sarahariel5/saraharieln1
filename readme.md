@@ -1,4 +1,6 @@
-![logo quadrada](https://github.com/user-attachments/assets/c48bf2fb-c1ec-4736-97f4-5871ee020354)  # 📚 Livraria A Toca - Projeto Node.js com Express, EJS, Sequelize e SQLite
+![logo quadrada](https://github.com/user-attachments/assets/c48bf2fb-c1ec-4736-97f4-5871ee020354)  
+
+# 📚 Livraria A Toca - Projeto Node.js com Express, EJS, Sequelize e SQLite
 
 Projeto Web desenvolvido por **Sarah Ariel de Sousa Mascarenha**, inspirado pela paixão pessoal da autora por livros e leitura.
 
